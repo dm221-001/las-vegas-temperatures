@@ -195,7 +195,7 @@ fig.add_trace(
 
 # Annotations (Title and Labels)
 fig.add_annotation(
-    x=1950,
+    x=1954,
     y=106.5,
     text="<b>Summer temperatures<br>in Las Vegas</b>",
     showarrow=False,
